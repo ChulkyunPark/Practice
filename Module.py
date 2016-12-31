@@ -1,6 +1,6 @@
 # This code runs in IPython
 # All contents are based on Udacity's Deep Learning course.
-# [[Full source]](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
+# [Full source](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
 
 from __future__ import print_function
 import matplotlib.pyplot as plt
